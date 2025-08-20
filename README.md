@@ -1,0 +1,1 @@
+Para el uso del código se necesita los registros de los electrocardiogramas. Los cuales vienen en formato zip, debido al tamaño, no se pueden subir en el repositorio, así que se comaprte el link para obtenerlos: https://drive.google.com/file/d/1ILHrd46yAgWd_tL_0T0WXT8dSIndvIru/view?usp=sharing
